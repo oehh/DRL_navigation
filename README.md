@@ -40,6 +40,3 @@ Go to `Navigation_Solution.ipynb` for training and running the trained agent.
 This files references to a feed-forward neural network (see model.py) and to the agent (see dqn_agent.py). 
 
 The agent is considered to be trained successfully if the agent gets an average score of +13 over 100 consecutive episodes; these weigths are then saved into checkpoint_nav.pth.
-
-
-# DRL_navigation
